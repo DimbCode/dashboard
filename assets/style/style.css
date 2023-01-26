@@ -1,0 +1,45 @@
+/* Imports */
+
+@import "ZeroingOut.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Open+Sans:wght@300;400;600;700&display=swap');
+
+/* Started */
+
+body {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-family: "Open Sans";
+    color: white;
+}
+
+img, svg {
+    height: auto;
+    max-width: 100%;
+}
+
+button {
+    background: none;
+}
+
+.container {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 26px;
+}
+
+/* General Classes */
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.none {
+    display: none !important;
+}
+
+/* Header */

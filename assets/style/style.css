@@ -40,6 +40,7 @@ button {
     width: 100%;
     background: #141332;
     padding-top: 128px;
+    padding-bottom: 50px;
 }
 
 .main__container {
@@ -820,7 +821,7 @@ button {
 
 .activity__header {
     justify-content: space-between;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
 }
 
 .activity__title {
